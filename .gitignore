@@ -1,0 +1,10 @@
+
+__pycache__/models.cpython-37.pyc
+.ipynb_checkpoints/PyTorch_Object_Detection-checkpoint.ipynb
+config/yolov3.weights
+utils/__pycache__/parse_config.cpython-37.pyc
+utils/__pycache__/utils.cpython-37.pyc
+images/blueangels-det.jpg
+*.pyc
+.ipynb_checkpoints/PyTorch_Object_Tracking-checkpoint.ipynb
+video.mp4
